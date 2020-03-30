@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c7434edb.chunk.css",
+    "main.js": "/static/js/main.2d44f5ac.chunk.js",
+    "main.js.map": "/static/js/main.2d44f5ac.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.00c33afe.js",
+    "runtime-main.js.map": "/static/js/runtime-main.00c33afe.js.map",
+    "static/css/2.de424728.chunk.css": "/static/css/2.de424728.chunk.css",
+    "static/js/2.3d91ac81.chunk.js": "/static/js/2.3d91ac81.chunk.js",
+    "static/js/2.3d91ac81.chunk.js.map": "/static/js/2.3d91ac81.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.8e40d0ec759ae93ce2f4f8a8f435fe92.js": "/precache-manifest.8e40d0ec759ae93ce2f4f8a8f435fe92.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/static/css/2.de424728.chunk.css.map",
+    "static/css/main.c7434edb.chunk.css.map": "/static/css/main.c7434edb.chunk.css.map",
+    "static/js/2.3d91ac81.chunk.js.LICENSE.txt": "/static/js/2.3d91ac81.chunk.js.LICENSE.txt",
+    "static/media/beach.jpg": "/static/media/beach.a00f526a.jpg",
+    "static/media/beachS.jpg": "/static/media/beachS.8b13b5c5.jpg",
+    "static/media/church.jpg": "/static/media/church.4edc00e7.jpg",
+    "static/media/churchS.jpg": "/static/media/churchS.002df4c6.jpg",
+    "static/media/lake.jpg": "/static/media/lake.693a8f82.jpg",
+    "static/media/lakeS.jpg": "/static/media/lakeS.58c31921.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00c33afe.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.3d91ac81.chunk.js",
+    "static/css/main.c7434edb.chunk.css",
+    "static/js/main.2d44f5ac.chunk.js"
+  ]
+}
