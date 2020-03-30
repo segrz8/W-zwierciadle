@@ -1,0 +1,33 @@
+.Menu {
+    width: 100%;
+    height: 100%;
+    background-color: rgb(179, 179, 179);
+    position: fixed;
+    top: 0;
+    left: 100%;
+    z-index: 1;
+    transition: .3s ease-out;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    &--active {
+        left: 0;
+    }
+
+    &__list {
+        ul {
+            list-style: none;
+
+            li {
+                text-align: center;
+                line-height: 2em;
+
+                a {
+                    color: white;
+                    text-decoration: none;
+                }
+            }
+        }
+    }
+}
