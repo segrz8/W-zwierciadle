@@ -6,12 +6,15 @@ import img1 from '../img/beach.jpg';
 import img1s from '../img/beachS.jpg';
 import img2 from '../img/church.jpg';
 import img2s from '../img/churchS.jpg';
+import img3 from '../img/lake.jpg';
+import img3s from '../img/lakeS.jpg';
 
-const MainSlider = () => {
+const MainSlider = (props) => {
 
     const imgSet1 = [
         { path: img1, pathS: img1s, },
         { path: img2, pathS: img2s, },
+        { path: img3, pathS: img3s, },
     ]
 
     const carouselItems1 = imgSet1.map(item => {
@@ -31,6 +34,9 @@ const MainSlider = () => {
                 <Carousel controls={false} indicators={false}>
                     {carouselItems1}
                 </Carousel>
+            </div>
+            <div className="MainSlider__arrow">
+                <i onClick={props.handleArrow} class="fas fa-arrow-circle-down"></i>
             </div>
         </div>
     )

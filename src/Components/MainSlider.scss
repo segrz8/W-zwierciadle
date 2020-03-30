@@ -1,9 +1,23 @@
 .MainSlider {
+    position: fixed;
+    height: 100vh;
+
     &__carousel {
         width: 100%;
 
         img {
             width: 100%;
+        }
+    }
+
+    &__arrow {
+        position: absolute;
+        bottom: 5%;
+        left: 50%;
+        transform: translate(-50%);
+
+        .fas {
+            font-size: 1.4em;
         }
     }
 }

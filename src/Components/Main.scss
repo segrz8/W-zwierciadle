@@ -1,5 +1,12 @@
 .Main {
-    p {
+    background-color: white;
+    z-index: 1;
+    position: absolute;
+    top: 100%;
+    padding-top: 2em;
+
+    &__dummy {
         padding: 1em;
+        margin-bottom: 0;
     }
 }

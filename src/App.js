@@ -20,6 +20,11 @@ class App extends React.Component {
 		});
 	}
 
+	handleArrow = () => {
+		let pageHeight = window.innerHeight;
+		window.scrollBy(0, pageHeight);
+	}
+
 	render() {
 		return (
 			<div className="App">
@@ -32,7 +37,7 @@ class App extends React.Component {
 						menuActive={this.state.menuActive}
 						handleMenu={this.handleMenu}
 					/>
-					<MainSlider />
+					<MainSlider handleArrow={this.handleArrow} />
 					<Main />
 				</BrowserRouter>
 			</div>
