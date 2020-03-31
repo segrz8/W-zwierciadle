@@ -24,6 +24,9 @@ const Footer = () => {
                     <i class="fas fa-envelope-square"></i>
                 </a>
             </div>
+            <div className="Footer__copyright">
+                <p>Copyright © 2020 W zwierciadle - wszelkie prawa zastrzeżone</p>
+            </div>
         </div>
     )
 }

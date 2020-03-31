@@ -1,6 +1,6 @@
 .Footer {
     background-color: #242424;
-    padding: 2em 0;
+    padding-top: 2em;
     margin-top: 1em;
 
     p {
@@ -21,9 +21,20 @@
     &__icons {
         color: white;
         font-size: 1.4em;
+        padding-bottom: 1em;
 
         i {
             padding: .5em 0 0 16px;
+        }
+    }
+
+    &__copyright {
+        background-color: white;
+        text-align: center;
+        padding: 1em;
+
+        p {
+            color: #242424;
         }
     }
 }
