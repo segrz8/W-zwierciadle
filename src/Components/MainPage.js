@@ -1,12 +1,12 @@
 import React from 'react'
 // import './MainPage.scss';
-import MainSlider from './Components/MainSlider'
-import Main from './Components/Main';
+import MainSlider from './MainSlider'
+import Main from './Main';
 
-const MainPage = () => {
+const MainPage = (props) => {
     return (
         <div className="MainPage">
-            <MainSlider handleArrow={this.handleArrow} />
+            <MainSlider handleArrow={props.handleArrow} />
             <Main />
         </div>
     )
