@@ -1,7 +1,8 @@
 import React from 'react';
 import './App.scss';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { BrowserRouter } from 'react-router-dom';
+import { BrowserRouter, Route } from 'react-router-dom';
+import ScrollToTop from 'react-router-scroll-top';
 
 import MainSlider from './Components/MainSlider'
 import Hamburger from './Components/Hamburger';
@@ -39,6 +40,10 @@ class App extends React.Component {
 					/>
 					<MainSlider handleArrow={this.handleArrow} />
 					<Main />
+					<ScrollToTop>
+						<Route exact path="/" component={About} />
+						{/* <Route path="/contact" component={Contact} /> */}
+					</ScrollToTop>
 				</BrowserRouter>
 			</div>
 		);
