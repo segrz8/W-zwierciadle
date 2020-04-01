@@ -2,12 +2,12 @@ import React from 'react'
 import './MainSlider.scss';
 import Carousel from 'react-bootstrap/Carousel';
 
-import img1 from '../img/beach.jpg';
-import img1s from '../img/beachS.jpg';
-import img2 from '../img/church.jpg';
-import img2s from '../img/churchS.jpg';
-import img3 from '../img/lake.jpg';
-import img3s from '../img/lakeS.jpg';
+import img1 from '../img/flower.jpg';
+import img1s from '../img/flowerS.jpg';
+import img2 from '../img/aircraft.jpg';
+import img2s from '../img/aircraftS.jpg';
+import img3 from '../img/switzerland.jpg';
+import img3s from '../img/switzerland.jpg';
 
 const MainSlider = (props) => {
 
@@ -31,7 +31,7 @@ const MainSlider = (props) => {
     return (
         <div className="MainSlider">
             <div className="MainSlider__carousel">
-                <Carousel controls={false} indicators={false}>
+                <Carousel controls={false} indicators={false} interval={4000}>
                     {carouselItems1}
                 </Carousel>
             </div>

@@ -4,6 +4,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import { BrowserRouter, Route } from 'react-router-dom';
 import ScrollToTop from 'react-router-scroll-top';
 
+
 import Hamburger from './Components/Hamburger';
 import Menu from './Components/Menu';
 
@@ -17,6 +18,8 @@ import Blog from './Components/Blog'
 import Contact from './Components/Contact'
 
 import Jan from './Components/Jan'
+
+// import Footer from './Components/Footer'
 
 class App extends React.Component {
 
@@ -62,6 +65,7 @@ class App extends React.Component {
 
 						<Route path="/Jan" component={Jan} />
 					</ScrollToTop>
+					{/* <Footer /> */}
 				</BrowserRouter>
 			</div>
 		);
