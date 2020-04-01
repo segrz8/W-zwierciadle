@@ -25,6 +25,7 @@ class App extends React.Component {
 
 	state = {
 		menuActive: false,
+		windowOffsetZero: true,
 	}
 
 	handleMenu = () => {

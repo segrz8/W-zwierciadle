@@ -5,10 +5,16 @@
 
     &__container {
         @media(min-width: 1024px) {
-            max-width: 1200px;
             margin-left: auto;
             margin-right: auto;
             padding: 0 4em;
+        }
+
+        @media(min-width: 1200px) {
+            max-width: 1200px;
+            margin-left: auto;
+            margin-right: auto;
+            padding: 0;
         }
     }
 
@@ -16,6 +22,10 @@
         padding: 0 1em;
         color: white;
         margin-bottom: 0;
+
+        @media(min-width: 1200px) {
+            padding: 0;
+        }
     }
 
     &__location {
