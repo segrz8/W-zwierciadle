@@ -8,6 +8,7 @@ import img4 from '../img/flower.jpg';
 import img4s from '../img/flowerS.jpg';
 import img6 from '../img/glacier.jpg';
 import img6s from '../img/glacierS.jpg';
+import img7 from '../img/switzerland.jpg';
 
 const Main = () => {
 
@@ -15,6 +16,7 @@ const Main = () => {
         { path: img4, pathS: img4s, },
         { path: img2, pathS: img2s, },
         { path: img6, pathS: img6s, },
+        { path: img7, pathS: img7, },
     ]
 
     const photos = imgSet1.map(item => {
