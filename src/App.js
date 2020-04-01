@@ -16,6 +16,8 @@ import Portraits from './Components/Portraits'
 import Blog from './Components/Blog'
 import Contact from './Components/Contact'
 
+import Jan from './Components/Jan'
+
 class App extends React.Component {
 
 	state = {
@@ -57,6 +59,8 @@ class App extends React.Component {
 						<Route path="/portraits" component={Portraits} />
 						<Route path="/blog" component={Blog} />
 						<Route path="/contact" component={Contact} />
+
+						<Route path="/Jan" component={Jan} />
 					</ScrollToTop>
 				</BrowserRouter>
 			</div>
