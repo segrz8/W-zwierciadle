@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b4d5f9fb0097ec0a008dff730eb476c5",
+    "revision": "5d6b77a467e7238d671b0d53a146253a",
     "url": "/W-zwierciadle/index.html"
   },
   {
-    "revision": "6b4faa1dfe153caf4e29",
+    "revision": "7f86f0013c067828d8ea",
     "url": "/W-zwierciadle/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "3009ee5ef43176982309",
-    "url": "/W-zwierciadle/static/css/main.88945868.chunk.css"
+    "revision": "2f5ea079c96b05b5a9cd",
+    "url": "/W-zwierciadle/static/css/main.198f3b72.chunk.css"
   },
   {
-    "revision": "6b4faa1dfe153caf4e29",
-    "url": "/W-zwierciadle/static/js/2.10710f0b.chunk.js"
+    "revision": "7f86f0013c067828d8ea",
+    "url": "/W-zwierciadle/static/js/2.e19a76ae.chunk.js"
   },
   {
     "revision": "198ee21697f3f1b9da80a5e725f8a685",
-    "url": "/W-zwierciadle/static/js/2.10710f0b.chunk.js.LICENSE.txt"
+    "url": "/W-zwierciadle/static/js/2.e19a76ae.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3009ee5ef43176982309",
-    "url": "/W-zwierciadle/static/js/main.2f86b242.chunk.js"
+    "revision": "2f5ea079c96b05b5a9cd",
+    "url": "/W-zwierciadle/static/js/main.cae66537.chunk.js"
   },
   {
     "revision": "e4dcdbcf13639f26ea90",
@@ -34,6 +34,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3c8f1efd6c4e878b9fd9934d8d13b192",
     "url": "/W-zwierciadle/static/media/aircraftS.3c8f1efd.jpg"
+  },
+  {
+    "revision": "2c19a55c0c5f1ffde0cf881cf946e6b7",
+    "url": "/W-zwierciadle/static/media/bridge.2c19a55c.jpg"
   },
   {
     "revision": "a9cf4fab343cadbf7b4503096d5fdb87",
@@ -50,6 +54,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "78312b356bb4d7e8624f7a2054f1c33d",
     "url": "/W-zwierciadle/static/media/glacierS.78312b35.jpg"
+  },
+  {
+    "revision": "da9b410742bbb5f121b1c0e1c4d13140",
+    "url": "/W-zwierciadle/static/media/logo.da9b4107.png"
+  },
+  {
+    "revision": "b6901eb88a06b8af02089b42ac3b9785",
+    "url": "/W-zwierciadle/static/media/self.b6901eb8.jpg"
   },
   {
     "revision": "9841170d80380ffc2a9c163bbee40954",

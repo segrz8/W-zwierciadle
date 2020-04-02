@@ -1,32 +1,35 @@
 {
   "files": {
-    "main.css": "/W-zwierciadle/static/css/main.88945868.chunk.css",
-    "main.js": "/W-zwierciadle/static/js/main.2f86b242.chunk.js",
-    "main.js.map": "/W-zwierciadle/static/js/main.2f86b242.chunk.js.map",
+    "main.css": "/W-zwierciadle/static/css/main.198f3b72.chunk.css",
+    "main.js": "/W-zwierciadle/static/js/main.cae66537.chunk.js",
+    "main.js.map": "/W-zwierciadle/static/js/main.cae66537.chunk.js.map",
     "runtime-main.js": "/W-zwierciadle/static/js/runtime-main.630c14d1.js",
     "runtime-main.js.map": "/W-zwierciadle/static/js/runtime-main.630c14d1.js.map",
     "static/css/2.de424728.chunk.css": "/W-zwierciadle/static/css/2.de424728.chunk.css",
-    "static/js/2.10710f0b.chunk.js": "/W-zwierciadle/static/js/2.10710f0b.chunk.js",
-    "static/js/2.10710f0b.chunk.js.map": "/W-zwierciadle/static/js/2.10710f0b.chunk.js.map",
+    "static/js/2.e19a76ae.chunk.js": "/W-zwierciadle/static/js/2.e19a76ae.chunk.js",
+    "static/js/2.e19a76ae.chunk.js.map": "/W-zwierciadle/static/js/2.e19a76ae.chunk.js.map",
     "index.html": "/W-zwierciadle/index.html",
-    "precache-manifest.5cd528dd4244a525f81cdf3b68a57be3.js": "/W-zwierciadle/precache-manifest.5cd528dd4244a525f81cdf3b68a57be3.js",
+    "precache-manifest.8e83d1fc732a878565de0be9be8d9d67.js": "/W-zwierciadle/precache-manifest.8e83d1fc732a878565de0be9be8d9d67.js",
     "service-worker.js": "/W-zwierciadle/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/W-zwierciadle/static/css/2.de424728.chunk.css.map",
-    "static/css/main.88945868.chunk.css.map": "/W-zwierciadle/static/css/main.88945868.chunk.css.map",
-    "static/js/2.10710f0b.chunk.js.LICENSE.txt": "/W-zwierciadle/static/js/2.10710f0b.chunk.js.LICENSE.txt",
+    "static/css/main.198f3b72.chunk.css.map": "/W-zwierciadle/static/css/main.198f3b72.chunk.css.map",
+    "static/js/2.e19a76ae.chunk.js.LICENSE.txt": "/W-zwierciadle/static/js/2.e19a76ae.chunk.js.LICENSE.txt",
     "static/media/aircraft.jpg": "/W-zwierciadle/static/media/aircraft.01c0c32e.jpg",
     "static/media/aircraftS.jpg": "/W-zwierciadle/static/media/aircraftS.3c8f1efd.jpg",
+    "static/media/bridge.jpg": "/W-zwierciadle/static/media/bridge.2c19a55c.jpg",
     "static/media/flower.jpg": "/W-zwierciadle/static/media/flower.a9cf4fab.jpg",
     "static/media/flowerS.jpg": "/W-zwierciadle/static/media/flowerS.8ad5cb3f.jpg",
     "static/media/glacier.jpg": "/W-zwierciadle/static/media/glacier.3a48f1ce.jpg",
     "static/media/glacierS.jpg": "/W-zwierciadle/static/media/glacierS.78312b35.jpg",
+    "static/media/logo.png": "/W-zwierciadle/static/media/logo.da9b4107.png",
+    "static/media/self.jpg": "/W-zwierciadle/static/media/self.b6901eb8.jpg",
     "static/media/switzerland.jpg": "/W-zwierciadle/static/media/switzerland.9841170d.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.630c14d1.js",
     "static/css/2.de424728.chunk.css",
-    "static/js/2.10710f0b.chunk.js",
-    "static/css/main.88945868.chunk.css",
-    "static/js/main.2f86b242.chunk.js"
+    "static/js/2.e19a76ae.chunk.js",
+    "static/css/main.198f3b72.chunk.css",
+    "static/js/main.cae66537.chunk.js"
   ]
 }
