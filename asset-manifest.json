@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/W-zwierciadle/static/css/main.198f3b72.chunk.css",
+    "main.css": "/W-zwierciadle/static/css/main.ea4d21c9.chunk.css",
     "main.js": "/W-zwierciadle/static/js/main.cae66537.chunk.js",
     "main.js.map": "/W-zwierciadle/static/js/main.cae66537.chunk.js.map",
     "runtime-main.js": "/W-zwierciadle/static/js/runtime-main.630c14d1.js",
@@ -9,10 +9,10 @@
     "static/js/2.e19a76ae.chunk.js": "/W-zwierciadle/static/js/2.e19a76ae.chunk.js",
     "static/js/2.e19a76ae.chunk.js.map": "/W-zwierciadle/static/js/2.e19a76ae.chunk.js.map",
     "index.html": "/W-zwierciadle/index.html",
-    "precache-manifest.8e83d1fc732a878565de0be9be8d9d67.js": "/W-zwierciadle/precache-manifest.8e83d1fc732a878565de0be9be8d9d67.js",
+    "precache-manifest.156d8247f1dcbda31e1070c0ba1e0474.js": "/W-zwierciadle/precache-manifest.156d8247f1dcbda31e1070c0ba1e0474.js",
     "service-worker.js": "/W-zwierciadle/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/W-zwierciadle/static/css/2.de424728.chunk.css.map",
-    "static/css/main.198f3b72.chunk.css.map": "/W-zwierciadle/static/css/main.198f3b72.chunk.css.map",
+    "static/css/main.ea4d21c9.chunk.css.map": "/W-zwierciadle/static/css/main.ea4d21c9.chunk.css.map",
     "static/js/2.e19a76ae.chunk.js.LICENSE.txt": "/W-zwierciadle/static/js/2.e19a76ae.chunk.js.LICENSE.txt",
     "static/media/aircraft.jpg": "/W-zwierciadle/static/media/aircraft.01c0c32e.jpg",
     "static/media/aircraftS.jpg": "/W-zwierciadle/static/media/aircraftS.3c8f1efd.jpg",
@@ -29,7 +29,7 @@
     "static/js/runtime-main.630c14d1.js",
     "static/css/2.de424728.chunk.css",
     "static/js/2.e19a76ae.chunk.js",
-    "static/css/main.198f3b72.chunk.css",
+    "static/css/main.ea4d21c9.chunk.css",
     "static/js/main.cae66537.chunk.js"
   ]
 }
