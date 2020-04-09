@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/W-zwierciadle/static/css/main.6c8eb231.chunk.css",
-    "main.js": "/W-zwierciadle/static/js/main.0265bf75.chunk.js",
-    "main.js.map": "/W-zwierciadle/static/js/main.0265bf75.chunk.js.map",
+    "main.js": "/W-zwierciadle/static/js/main.aef232ec.chunk.js",
+    "main.js.map": "/W-zwierciadle/static/js/main.aef232ec.chunk.js.map",
     "runtime-main.js": "/W-zwierciadle/static/js/runtime-main.630c14d1.js",
     "runtime-main.js.map": "/W-zwierciadle/static/js/runtime-main.630c14d1.js.map",
     "static/css/2.de424728.chunk.css": "/W-zwierciadle/static/css/2.de424728.chunk.css",
     "static/js/2.020589e8.chunk.js": "/W-zwierciadle/static/js/2.020589e8.chunk.js",
     "static/js/2.020589e8.chunk.js.map": "/W-zwierciadle/static/js/2.020589e8.chunk.js.map",
     "index.html": "/W-zwierciadle/index.html",
-    "precache-manifest.8305b1b4c92168c932d6bcd9bf045f8e.js": "/W-zwierciadle/precache-manifest.8305b1b4c92168c932d6bcd9bf045f8e.js",
+    "precache-manifest.806712b0d879b79b09c7d602c7ad7719.js": "/W-zwierciadle/precache-manifest.806712b0d879b79b09c7d602c7ad7719.js",
     "service-worker.js": "/W-zwierciadle/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/W-zwierciadle/static/css/2.de424728.chunk.css.map",
     "static/css/main.6c8eb231.chunk.css.map": "/W-zwierciadle/static/css/main.6c8eb231.chunk.css.map",
@@ -50,6 +50,6 @@
     "static/css/2.de424728.chunk.css",
     "static/js/2.020589e8.chunk.js",
     "static/css/main.6c8eb231.chunk.css",
-    "static/js/main.0265bf75.chunk.js"
+    "static/js/main.aef232ec.chunk.js"
   ]
 }
