@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/W-zwierciadle/static/css/main.c5b4f5f0.chunk.css",
-    "main.js": "/W-zwierciadle/static/js/main.03909a76.chunk.js",
-    "main.js.map": "/W-zwierciadle/static/js/main.03909a76.chunk.js.map",
+    "main.css": "/W-zwierciadle/static/css/main.5aa62cb2.chunk.css",
+    "main.js": "/W-zwierciadle/static/js/main.bb2f6942.chunk.js",
+    "main.js.map": "/W-zwierciadle/static/js/main.bb2f6942.chunk.js.map",
     "runtime-main.js": "/W-zwierciadle/static/js/runtime-main.630c14d1.js",
     "runtime-main.js.map": "/W-zwierciadle/static/js/runtime-main.630c14d1.js.map",
     "static/css/2.de424728.chunk.css": "/W-zwierciadle/static/css/2.de424728.chunk.css",
-    "static/js/2.d689d71b.chunk.js": "/W-zwierciadle/static/js/2.d689d71b.chunk.js",
-    "static/js/2.d689d71b.chunk.js.map": "/W-zwierciadle/static/js/2.d689d71b.chunk.js.map",
+    "static/js/2.9701f6b9.chunk.js": "/W-zwierciadle/static/js/2.9701f6b9.chunk.js",
+    "static/js/2.9701f6b9.chunk.js.map": "/W-zwierciadle/static/js/2.9701f6b9.chunk.js.map",
     "index.html": "/W-zwierciadle/index.html",
-    "precache-manifest.a9fb683e614a7f6ee56ddcc217f2b7e8.js": "/W-zwierciadle/precache-manifest.a9fb683e614a7f6ee56ddcc217f2b7e8.js",
+    "precache-manifest.1f1fe9ef578e2b7a7ada69acd9cb0ca6.js": "/W-zwierciadle/precache-manifest.1f1fe9ef578e2b7a7ada69acd9cb0ca6.js",
     "service-worker.js": "/W-zwierciadle/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/W-zwierciadle/static/css/2.de424728.chunk.css.map",
-    "static/css/main.c5b4f5f0.chunk.css.map": "/W-zwierciadle/static/css/main.c5b4f5f0.chunk.css.map",
-    "static/js/2.d689d71b.chunk.js.LICENSE.txt": "/W-zwierciadle/static/js/2.d689d71b.chunk.js.LICENSE.txt",
+    "static/css/main.5aa62cb2.chunk.css.map": "/W-zwierciadle/static/css/main.5aa62cb2.chunk.css.map",
+    "static/js/2.9701f6b9.chunk.js.LICENSE.txt": "/W-zwierciadle/static/js/2.9701f6b9.chunk.js.LICENSE.txt",
     "static/media/DSC0.jpg": "/W-zwierciadle/static/media/DSC0.3df43b0f.jpg",
     "static/media/DSC01.jpg": "/W-zwierciadle/static/media/DSC01.eb0ed390.jpg",
     "static/media/DSC02.jpg": "/W-zwierciadle/static/media/DSC02.5ee9ca2d.jpg",
@@ -48,8 +48,8 @@
   "entrypoints": [
     "static/js/runtime-main.630c14d1.js",
     "static/css/2.de424728.chunk.css",
-    "static/js/2.d689d71b.chunk.js",
-    "static/css/main.c5b4f5f0.chunk.css",
-    "static/js/main.03909a76.chunk.js"
+    "static/js/2.9701f6b9.chunk.js",
+    "static/css/main.5aa62cb2.chunk.css",
+    "static/js/main.bb2f6942.chunk.js"
   ]
 }
